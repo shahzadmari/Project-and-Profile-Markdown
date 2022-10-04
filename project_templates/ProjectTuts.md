@@ -11,7 +11,7 @@ well headings are the most common and important factor to get the first impressi
 ```
 ###  output:
 # First Heading 
- so you can create headings by starting with # sign and if you want to create samller headings you just have to increase the number of # the maximum limit is 6 #'s.
+ so you can create headings by starting with # sign and if you want to create smaller headings you just have to increase the number of # the maximum limit is 6 #'s.
  
  ### 2) code example:
 ```markdown
